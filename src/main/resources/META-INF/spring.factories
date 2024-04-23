@@ -1,1 +1,2 @@
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=
+# spring boot starter
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.bob.bobapiclientsdk.BobApiClientConfig
